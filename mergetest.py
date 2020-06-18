@@ -1,2 +1,2 @@
 def myFunc():
-    return 2 + 7
+    return 'now Im a sentence'
