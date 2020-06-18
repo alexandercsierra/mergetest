@@ -1,2 +1,1 @@
-def myFunc():
-    return 'now Im a sentence'
+a = 'pie'
